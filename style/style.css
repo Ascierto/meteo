@@ -1,0 +1,128 @@
+html {
+    font-size: 10px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    }
+    
+    *,
+    *::before,
+    *::after {
+    box-sizing: inherit;
+    }
+    
+    body {
+    text-align: center;
+    }
+    
+    header,
+    main,
+    footer {
+    padding: 24px;
+    }
+    
+    header h1 {
+    font-size: 4rem;
+    text-transform: uppercase;
+    margin: 0;
+    }
+    
+    main form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    main form > * {
+    height: 36px;
+    }
+    
+    main form input[type="submit"] {
+    border: 1px solid tomato;
+    background-color: transparent;
+    font-family: inherit;
+    border-radius: 0 5px 5px 0;
+    border-left: 0;
+    }
+    
+    main form input[type="submit"]:hover,
+    main form input[type="submit"]:active {
+    background-color: tomato;
+    color: #f2f2f2;
+    }
+    
+    main form select {
+    border: 1px solid tomato;
+    border-radius: 5px 0 0 5px;
+    padding-left: 10px;
+    }
+
+    .weather-card {
+        padding: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+        width: fit-content;
+        font-size: 1.4rem;
+        }
+        
+        .weather-card > div {
+        display: flex;
+        text-align: left;
+        align-items: center;
+        }
+        
+        .weather-card > div:first-child * {
+        margin: 0;
+        }
+        
+        .weather-card .main-weather p:first-of-type {
+        font-weight: bold;
+        font-size: 1.8rem;
+        margin-bottom: 10px;
+        }
+        
+        .weather-card .main-weather p:last-of-type {
+        font-style: italic;
+        color: #666;
+        }
+        .weather-card > div:last-child {
+        justify-content: space-between;
+        }
+        .weather-card > div:last-child > div {
+        display: flex;
+        align-items: center;
+        
+        }
+
+        .material-icons {
+            font-size: 1.4rem;
+            display: inline-block;
+            margin-right: 0.5rem;
+        }
+
+        .material-icons.temp-max{
+
+            color: indianred;
+        }
+        
+        .material-icons.temp-min{
+
+            color:dodgerblue ;
+        }
+        .material-icons.umidity{
+
+            color:cornflowerblue ;
+        }
+
+        .material-icons.wind{
+
+            color:#ccc ;
+        }
+
+        .go-back{
+            display: block;
+            
+
+            padding: 8px 12px;
+
+        }
