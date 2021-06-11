@@ -138,7 +138,7 @@ $dayOftheWeek= $arrGiorno[0];
     <div class="container">
         <div class="row">
             <div class="col-12 text-start m-5">
-                <a href="/meteo" class="btn btn-success">Torna indietro</a>
+                <a href="/miometeo" class="btn btn-success">Torna indietro</a>
             </div>
             <div class="col-12">
                 <h1>Le previsioni per i prossimi giorni a <span class="text-warning"><?php echo $data->city->name; ?></span></h1>
