@@ -1,0 +1,3543 @@
+
+[
+    {
+    "id": 6541163,
+    "name": "Caivano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.31023,
+        "lat": 40.957111
+    }
+    },
+    {
+    "id": 6541164,
+    "name": "Giugliano in Campania",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.19103,
+        "lat": 40.92741
+    }
+    },
+    {
+    "id": 6541165,
+    "name": "Ercolano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.36093,
+        "lat": 40.806309
+    }
+    },
+    {
+    "id": 6541166,
+    "name": "Sant'Antonio Abate",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.54654,
+        "lat": 40.723709
+    }
+    },
+    {
+    "id": 6541168,
+    "name": "Torre Annunziata",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.46464,
+        "lat": 40.74971
+    }
+    },
+    {
+    "id": 6541169,
+    "name": "Vico Equense",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.43174,
+        "lat": 40.659809
+    }
+    },
+    {
+    "id": 6541176,
+    "name": "Agropoli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.99655,
+        "lat": 40.346901
+    }
+    },
+    {
+    "id": 6541177,
+    "name": "Angri",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.57144,
+        "lat": 40.74271
+    }
+    },
+    {
+    "id": 6541194,
+    "name": "Scafati",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.53384,
+        "lat": 40.752811
+    }
+    },
+    {
+    "id": 6541214,
+    "name": "Collecorvino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.0152,
+        "lat": 42.458939
+    }
+    },
+    {
+    "id": 6541254,
+    "name": "Altamura",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.55368,
+        "lat": 40.829231
+    }
+    },
+    {
+    "id": 6541255,
+    "name": "Bitonto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.689381,
+        "lat": 41.110828
+    }
+    },
+    {
+    "id": 6541257,
+    "name": "Monopoli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 17.2896,
+        "lat": 40.955929
+    }
+    },
+    {
+    "id": 6541258,
+    "name": "Terlizzi",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.54528,
+        "lat": 41.13113
+    }
+    },
+    {
+    "id": 6541259,
+    "name": "Trani",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.415371,
+        "lat": 41.272732
+    }
+    },
+    {
+    "id": 6541260,
+    "name": "Valenzano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.88509,
+        "lat": 41.04533
+    }
+    },
+    {
+    "id": 6541262,
+    "name": "Mesagne",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 17.80831,
+        "lat": 40.55883
+    }
+    },
+    {
+    "id": 6541279,
+    "name": "Policoro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.67259,
+        "lat": 40.21151
+    }
+    },
+    {
+    "id": 6541296,
+    "name": "Paola",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.039591,
+        "lat": 39.35989
+    }
+    },
+    {
+    "id": 6541297,
+    "name": "Paterno Calabro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.264891,
+        "lat": 39.228489
+    }
+    },
+    {
+    "id": 6541308,
+    "name": "Tiriolo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.508301,
+        "lat": 38.943291
+    }
+    },
+    {
+    "id": 6541315,
+    "name": "Polistena",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.08,
+        "lat": 38.405979
+    }
+    },
+    {
+    "id": 6541317,
+    "name": "San Giorgio Morgeto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.085501,
+        "lat": 38.390179
+    }
+    },
+    {
+    "id": 6541339,
+    "name": "Favara",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.66226,
+        "lat": 37.317539
+    }
+    },
+    {
+    "id": 6541340,
+    "name": "Licata",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.94607,
+        "lat": 37.10714
+    }
+    },
+    {
+    "id": 6541341,
+    "name": "Porto Empedocle",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.52636,
+        "lat": 37.293442
+    }
+    },
+    {
+    "id": 6541345,
+    "name": "San Cataldo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.99306,
+        "lat": 37.488441
+    }
+    },
+    {
+    "id": 6541347,
+    "name": "Biancavilla",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.86708,
+        "lat": 37.645149
+    }
+    },
+    {
+    "id": 6541348,
+    "name": "Giarre",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.18769,
+        "lat": 37.72686
+    }
+    },
+    {
+    "id": 6541351,
+    "name": "Palagonia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.74478,
+        "lat": 37.328251
+    }
+    },
+    {
+    "id": 6541369,
+    "name": "Tiana",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.14733,
+        "lat": 40.068451
+    }
+    },
+    {
+    "id": 6541372,
+    "name": "Castelpetroso",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.34502,
+        "lat": 41.559422
+    }
+    },
+    {
+    "id": 6541382,
+    "name": "Carenno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.46205,
+        "lat": 45.803478
+    }
+    },
+    {
+    "id": 6541407,
+    "name": "Casal di Principe",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.12482,
+        "lat": 41.01141
+    }
+    },
+    {
+    "id": 6541409,
+    "name": "Marcianise",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.30093,
+        "lat": 41.032211
+    }
+    },
+    {
+    "id": 6541413,
+    "name": "Grandate",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.05784,
+        "lat": 45.775181
+    }
+    },
+    {
+    "id": 6541421,
+    "name": "Casirate d'Adda",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.56626,
+        "lat": 45.49678
+    }
+    },
+    {
+    "id": 6541422,
+    "name": "Orio al Serio",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.69265,
+        "lat": 45.676079
+    }
+    },
+    {
+    "id": 6541425,
+    "name": "Palazzolo sull'Oglio",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.89716,
+        "lat": 45.60368
+    }
+    },
+    {
+    "id": 6541435,
+    "name": "San Mauro Torinese",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.75452,
+        "lat": 45.10585
+    }
+    },
+    {
+    "id": 6541441,
+    "name": "Venaria Reale",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.63542,
+        "lat": 45.123852
+    }
+    },
+    {
+    "id": 6541461,
+    "name": "Modena",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.9192,
+        "lat": 44.655869
+    }
+    },
+    {
+    "id": 6541462,
+    "name": "Rieti",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.85918,
+        "lat": 42.40723
+    }
+    },
+    {
+    "id": 6541463,
+    "name": "Crotone",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 17.117809,
+        "lat": 39.085098
+    }
+    },
+    {
+    "id": 6541464,
+    "name": "Alessandria",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.61894,
+        "lat": 44.912449
+    }
+    },
+    {
+    "id": 6541465,
+    "name": "Vicenza",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.5409,
+        "lat": 45.557289
+    }
+    },
+    {
+    "id": 6541466,
+    "name": "Siena",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.33283,
+        "lat": 43.320042
+    }
+    },
+    {
+    "id": 6541467,
+    "name": "Cosenza",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.250191,
+        "lat": 39.30999
+    }
+    },
+    {
+    "id": 6541468,
+    "name": "Catania",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.07339,
+        "lat": 37.500252
+    }
+    },
+    {
+    "id": 6541469,
+    "name": "Trento",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.12074,
+        "lat": 46.070431
+    }
+    },
+    {
+    "id": 6541470,
+    "name": "Potenza",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.80857,
+        "lat": 40.644321
+    }
+    },
+    {
+    "id": 6541471,
+    "name": "Aosta",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.3166,
+        "lat": 45.737358
+    }
+    },
+    {
+    "id": 6541472,
+    "name": "Urbino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.63555,
+        "lat": 43.729759
+    }
+    },
+    {
+    "id": 6541474,
+    "name": "Jesi",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.24017,
+        "lat": 43.528759
+    }
+    },
+    {
+    "id": 6541475,
+    "name": "Marigliano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.45813,
+        "lat": 40.926311
+    }
+    },
+    {
+    "id": 6541484,
+    "name": "Imperia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.02225,
+        "lat": 43.88332
+    }
+    },
+    {
+    "id": 6541490,
+    "name": "Olgiate Comasco",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.96764,
+        "lat": 45.785381
+    }
+    },
+    {
+    "id": 6541492,
+    "name": "Arese",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.07654,
+        "lat": 45.552269
+    }
+    },
+    {
+    "id": 6541509,
+    "name": "Negrar",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.93798,
+        "lat": 45.52879
+    }
+    },
+    {
+    "id": 6541514,
+    "name": "Celle Ligure",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.54395,
+        "lat": 44.34864
+    }
+    },
+    {
+    "id": 6541516,
+    "name": "Deiva Marina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.51898,
+        "lat": 44.218941
+    }
+    },
+    {
+    "id": 6541532,
+    "name": "Villorba",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.25311,
+        "lat": 45.721298
+    }
+    },
+    {
+    "id": 6541534,
+    "name": "Villimpenta",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.03169,
+        "lat": 45.147179
+    }
+    },
+    {
+    "id": 6541538,
+    "name": "Lama Mocogno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.7306,
+        "lat": 44.307259
+    }
+    },
+    {
+    "id": 6541539,
+    "name": "Zola Predosa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.21831,
+        "lat": 44.489658
+    }
+    },
+    {
+    "id": 6541548,
+    "name": "Falcade",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.86489,
+        "lat": 46.353741
+    }
+    },
+    {
+    "id": 6541550,
+    "name": "Montesilvano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.138,
+        "lat": 42.503941
+    }
+    },
+    {
+    "id": 6541554,
+    "name": "Montemurlo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.03112,
+        "lat": 43.92165
+    }
+    },
+    {
+    "id": 6541556,
+    "name": "Varese Ligure",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.59418,
+        "lat": 44.37635
+    }
+    },
+    {
+    "id": 6541559,
+    "name": "Erba",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.23124,
+        "lat": 45.809582
+    }
+    },
+    {
+    "id": 6541567,
+    "name": "Casalmaggiore",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.41888,
+        "lat": 44.99387
+    }
+    },
+    {
+    "id": 6541575,
+    "name": "Colle Santa Lucia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.01399,
+        "lat": 46.448521
+    }
+    },
+    {
+    "id": 6541586,
+    "name": "Lainate",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.01714,
+        "lat": 45.575871
+    }
+    },
+    {
+    "id": 6541587,
+    "name": "Seveso",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.14594,
+        "lat": 45.64238
+    }
+    },
+    {
+    "id": 6541597,
+    "name": "Noventa Vicentina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.5469,
+        "lat": 45.295689
+    }
+    },
+    {
+    "id": 6541599,
+    "name": "Fontanelle",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.46421,
+        "lat": 45.83601
+    }
+    },
+    {
+    "id": 6541615,
+    "name": "Frascati",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.66868,
+        "lat": 41.816319
+    }
+    },
+    {
+    "id": 6541616,
+    "name": "Ladispoli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.07347,
+        "lat": 41.95372
+    }
+    },
+    {
+    "id": 6541617,
+    "name": "Cisterna di Latina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.83049,
+        "lat": 41.59761
+    }
+    },
+    {
+    "id": 6541618,
+    "name": "Pontinia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.0441,
+        "lat": 41.410912
+    }
+    },
+    {
+    "id": 6541623,
+    "name": "Villanova d'Albenga",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.14675,
+        "lat": 44.051128
+    }
+    },
+    {
+    "id": 6541624,
+    "name": "Cicagna",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.24637,
+        "lat": 44.404049
+    }
+    },
+    {
+    "id": 6541630,
+    "name": "Giussano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.21124,
+        "lat": 45.69408
+    }
+    },
+    {
+    "id": 6541632,
+    "name": "Fabbrico",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.81159,
+        "lat": 44.869469
+    }
+    },
+    {
+    "id": 6541633,
+    "name": "Castelfranco Emilia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.052,
+        "lat": 44.595772
+    }
+    },
+    {
+    "id": 6541635,
+    "name": "Bagnacavallo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.97713,
+        "lat": 44.412472
+    }
+    },
+    {
+    "id": 6541643,
+    "name": "Montecarlo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.66831,
+        "lat": 43.85125
+    }
+    },
+    {
+    "id": 6541644,
+    "name": "Seravezza",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.2287,
+        "lat": 43.995041
+    }
+    },
+    {
+    "id": 6541645,
+    "name": "Viareggio",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.2558,
+        "lat": 43.873539
+    }
+    },
+    {
+    "id": 6541646,
+    "name": "Piombino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.52212,
+        "lat": 42.934818
+    }
+    },
+    {
+    "id": 6541647,
+    "name": "Asciano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.57634,
+        "lat": 43.235142
+    }
+    },
+    {
+    "id": 6541648,
+    "name": "Sinalunga",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.74954,
+        "lat": 43.21524
+    }
+    },
+    {
+    "id": 6541649,
+    "name": "Città di Castello",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.23045,
+        "lat": 43.469051
+    }
+    },
+    {
+    "id": 6541651,
+    "name": "Albano Laziale",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.63128,
+        "lat": 41.726021
+    }
+    },
+    {
+    "id": 6541652,
+    "name": "Colleferro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.00359,
+        "lat": 41.726219
+    }
+    },
+    {
+    "id": 6541654,
+    "name": "Cassino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.83151,
+        "lat": 41.487621
+    }
+    },
+    {
+    "id": 6541657,
+    "name": "Borghetto Santo Spirito",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.23905,
+        "lat": 44.115429
+    }
+    },
+    {
+    "id": 6541659,
+    "name": "Vado Ligure",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.43375,
+        "lat": 44.269138
+    }
+    },
+    {
+    "id": 6541662,
+    "name": "Rozzano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.16055,
+        "lat": 45.38187
+    }
+    },
+    {
+    "id": 6541663,
+    "name": "Segrate",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.30005,
+        "lat": 45.494171
+    }
+    },
+    {
+    "id": 6541669,
+    "name": "Sorisole",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.65505,
+        "lat": 45.736279
+    }
+    },
+    {
+    "id": 6541680,
+    "name": "Casoria",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.29343,
+        "lat": 40.911812
+    }
+    },
+    {
+    "id": 6541681,
+    "name": "Pozzuoli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.10453,
+        "lat": 40.832211
+    }
+    },
+    {
+    "id": 6541683,
+    "name": "Terzigno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.49644,
+        "lat": 40.81221
+    }
+    },
+    {
+    "id": 6541686,
+    "name": "Baronissi",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.77084,
+        "lat": 40.747711
+    }
+    },
+    {
+    "id": 6541687,
+    "name": "Nocera Inferiore",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.64014,
+        "lat": 40.752209
+    }
+    },
+    {
+    "id": 6541691,
+    "name": "Avezzano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.4388,
+        "lat": 42.04023
+    }
+    },
+    {
+    "id": 6541710,
+    "name": "Cazzago San Martino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.04186,
+        "lat": 45.593781
+    }
+    },
+    {
+    "id": 6541713,
+    "name": "Gambolò",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.85724,
+        "lat": 45.26416
+    }
+    },
+    {
+    "id": 6541731,
+    "name": "Monte Sant'Angelo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.96766,
+        "lat": 41.705441
+    }
+    },
+    {
+    "id": 6541734,
+    "name": "Modugno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.777981,
+        "lat": 41.097431
+    }
+    },
+    {
+    "id": 6541736,
+    "name": "Casarano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 18.163031,
+        "lat": 40.015018
+    }
+    },
+    {
+    "id": 6541744,
+    "name": "Bernalda",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.69199,
+        "lat": 40.412819
+    }
+    },
+    {
+    "id": 6541749,
+    "name": "Rogliano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.320999,
+        "lat": 39.18119
+    }
+    },
+    {
+    "id": 6541756,
+    "name": "Palmi",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.8615,
+        "lat": 38.365269
+    }
+    },
+    {
+    "id": 6541758,
+    "name": "Santo Stefano in Aspromonte",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.7892,
+        "lat": 38.16917
+    }
+    },
+    {
+    "id": 6541759,
+    "name": "Mazara del Vallo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.58804,
+        "lat": 37.664139
+    }
+    },
+    {
+    "id": 6541769,
+    "name": "Milo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.11589,
+        "lat": 37.723259
+    }
+    },
+    {
+    "id": 6541770,
+    "name": "Pedara",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.05669,
+        "lat": 37.616852
+    }
+    },
+    {
+    "id": 6541771,
+    "name": "Comiso",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.61018,
+        "lat": 36.95134
+    }
+    },
+    {
+    "id": 6541772,
+    "name": "Augusta",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.21969,
+        "lat": 37.236549
+    }
+    },
+    {
+    "id": 6541777,
+    "name": "San Teodoro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.67344,
+        "lat": 40.77037
+    }
+    },
+    {
+    "id": 6541787,
+    "name": "Vaiano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.12322,
+        "lat": 43.948952
+    }
+    },
+    {
+    "id": 6541791,
+    "name": "Borgofranco d'Ivrea",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.85802,
+        "lat": 45.512859
+    }
+    },
+    {
+    "id": 6541794,
+    "name": "Giaveno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.34922,
+        "lat": 45.047039
+    }
+    },
+    {
+    "id": 6541807,
+    "name": "Eboli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.05785,
+        "lat": 40.614208
+    }
+    },
+    {
+    "id": 6541810,
+    "name": "Riva del Garda",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.84118,
+        "lat": 45.885761
+    }
+    },
+    {
+    "id": 6541812,
+    "name": "Marano di Valpolicella",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.91518,
+        "lat": 45.55579
+    }
+    },
+    {
+    "id": 6541821,
+    "name": "Chioggia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.29302,
+        "lat": 45.20779
+    }
+    },
+    {
+    "id": 6541826,
+    "name": "Selvazzano Dentro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.80051,
+        "lat": 45.391392
+    }
+    },
+    {
+    "id": 6541831,
+    "name": "Noceto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.17128,
+        "lat": 44.811359
+    }
+    },
+    {
+    "id": 6541832,
+    "name": "Scandiano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.6907,
+        "lat": 44.596458
+    }
+    },
+    {
+    "id": 6541838,
+    "name": "Cesena",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.26404,
+        "lat": 44.15617
+    }
+    },
+    {
+    "id": 6541845,
+    "name": "Morrovalle",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.58848,
+        "lat": 43.31646
+    }
+    },
+    {
+    "id": 6541846,
+    "name": "Recanati",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.55978,
+        "lat": 43.403858
+    }
+    },
+    {
+    "id": 6541851,
+    "name": "Cremona",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.02797,
+        "lat": 45.136169
+    }
+    },
+    {
+    "id": 6541852,
+    "name": "Rovigo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.79301,
+        "lat": 45.079979
+    }
+    },
+    {
+    "id": 6541853,
+    "name": "Frosinone",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.3401,
+        "lat": 41.640018
+    }
+    },
+    {
+    "id": 6541854,
+    "name": "Pavia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.16145,
+        "lat": 45.18446
+    }
+    },
+    {
+    "id": 6541855,
+    "name": "Mantova",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.77379,
+        "lat": 45.152081
+    }
+    },
+    {
+    "id": 6541856,
+    "name": "Teramo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.71789,
+        "lat": 42.66494
+    }
+    },
+    {
+    "id": 6541857,
+    "name": "Foggia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.54925,
+        "lat": 41.46093
+    }
+    },
+    {
+    "id": 6541858,
+    "name": "Catanzaro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.5987,
+        "lat": 38.890789
+    }
+    },
+    {
+    "id": 6541859,
+    "name": "Messina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.54969,
+        "lat": 38.193272
+    }
+    },
+    {
+    "id": 6541860,
+    "name": "Agrigento",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.58876,
+        "lat": 37.320839
+    }
+    },
+    {
+    "id": 6541861,
+    "name": "Caltanissetta",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.04497,
+        "lat": 37.48774
+    }
+    },
+    {
+    "id": 6541862,
+    "name": "Nuoro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.32973,
+        "lat": 40.32106
+    }
+    },
+    {
+    "id": 6541863,
+    "name": "Rimini",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.55565,
+        "lat": 44.068371
+    }
+    },
+    {
+    "id": 6541864,
+    "name": "Cuneo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.54453,
+        "lat": 44.397331
+    }
+    },
+    {
+    "id": 6541865,
+    "name": "Verona",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.99779,
+        "lat": 45.434189
+    }
+    },
+    {
+    "id": 6541866,
+    "name": "Gorizia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.61834,
+        "lat": 45.934319
+    }
+    },
+    {
+    "id": 6541867,
+    "name": "Pistoia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.92361,
+        "lat": 43.921249
+    }
+    },
+    {
+    "id": 6541868,
+    "name": "Grosseto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.10794,
+        "lat": 42.77142
+    }
+    },
+    {
+    "id": 6541869,
+    "name": "Caserta",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.33493,
+        "lat": 41.083221
+    }
+    },
+    {
+    "id": 6541870,
+    "name": "Avellino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.78874,
+        "lat": 40.914421
+    }
+    },
+    {
+    "id": 6541871,
+    "name": "Enna",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.28917,
+        "lat": 37.558849
+    }
+    },
+    {
+    "id": 6541873,
+    "name": "Cupra Marittima",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.85789,
+        "lat": 43.029949
+    }
+    },
+    {
+    "id": 6541874,
+    "name": "Fermo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.72329,
+        "lat": 43.164661
+    }
+    },
+    {
+    "id": 6541877,
+    "name": "San Benedetto del Tronto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.88569,
+        "lat": 42.934849
+    }
+    },
+    {
+    "id": 6541879,
+    "name": "Castelnuovo di Garfagnana",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.4046,
+        "lat": 44.12125
+    }
+    },
+    {
+    "id": 6541881,
+    "name": "Marliana",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.77021,
+        "lat": 43.933849
+    }
+    },
+    {
+    "id": 6541883,
+    "name": "Poppi",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.76073,
+        "lat": 43.734852
+    }
+    },
+    {
+    "id": 6541890,
+    "name": "Santa Marinella",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.87376,
+        "lat": 42.038422
+    }
+    },
+    {
+    "id": 6541892,
+    "name": "Minturno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.72371,
+        "lat": 41.25761
+    }
+    },
+    {
+    "id": 6541893,
+    "name": "Terracina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.2217,
+        "lat": 41.286308
+    }
+    },
+    {
+    "id": 6541894,
+    "name": "Alatri",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.3402,
+        "lat": 41.730621
+    }
+    },
+    {
+    "id": 6541898,
+    "name": "Castel Volturno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.94622,
+        "lat": 41.014912
+    }
+    },
+    {
+    "id": 6541900,
+    "name": "Villa Literno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.08052,
+        "lat": 41.009911
+    }
+    },
+    {
+    "id": 6541903,
+    "name": "Castellammare di Stabia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.48914,
+        "lat": 40.715511
+    }
+    },
+    {
+    "id": 6541905,
+    "name": "Nola",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.53294,
+        "lat": 40.922009
+    }
+    },
+    {
+    "id": 6541906,
+    "name": "Ottaviano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.49014,
+        "lat": 40.849812
+    }
+    },
+    {
+    "id": 6541907,
+    "name": "Torre del Greco",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.37235,
+        "lat": 40.785221
+    }
+    },
+    {
+    "id": 6541913,
+    "name": "Battipaglia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.98515,
+        "lat": 40.610909
+    }
+    },
+    {
+    "id": 6541923,
+    "name": "Atri",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.9848,
+        "lat": 42.577839
+    }
+    },
+    {
+    "id": 6541925,
+    "name": "Roseto degli Abruzzi",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.0227,
+        "lat": 42.666351
+    }
+    },
+    {
+    "id": 6541930,
+    "name": "Lanciano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.38822,
+        "lat": 42.21674
+    }
+    },
+    {
+    "id": 6541934,
+    "name": "Termoli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.98953,
+        "lat": 41.988838
+    }
+    },
+    {
+    "id": 6541936,
+    "name": "Orta Nova",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.71066,
+        "lat": 41.329929
+    }
+    },
+    {
+    "id": 6541937,
+    "name": "Andria",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.290871,
+        "lat": 41.230629
+    }
+    },
+    {
+    "id": 6541938,
+    "name": "Noci",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 17.131701,
+        "lat": 40.79073
+    }
+    },
+    {
+    "id": 6541941,
+    "name": "Botrugno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 18.32443,
+        "lat": 40.06472
+    }
+    },
+    {
+    "id": 6541943,
+    "name": "Gallipoli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 17.99642,
+        "lat": 40.056721
+    }
+    },
+    {
+    "id": 6541954,
+    "name": "Nocera Terinese",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.168591,
+        "lat": 39.034389
+    }
+    },
+    {
+    "id": 6541958,
+    "name": "Alcamo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.95654,
+        "lat": 37.998348
+    }
+    },
+    {
+    "id": 6541959,
+    "name": "Petrosino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.49993,
+        "lat": 37.707741
+    }
+    },
+    {
+    "id": 6541961,
+    "name": "Patti",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.96958,
+        "lat": 38.146759
+    }
+    },
+    {
+    "id": 6541964,
+    "name": "Gela",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.23068,
+        "lat": 37.080341
+    }
+    },
+    {
+    "id": 6541966,
+    "name": "Belpasso",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.98338,
+        "lat": 37.59465
+    }
+    },
+    {
+    "id": 6541967,
+    "name": "Caltagirone",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.5126,
+        "lat": 37.23682
+    }
+    },
+    {
+    "id": 6541968,
+    "name": "Maletto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.86248,
+        "lat": 37.82996
+    }
+    },
+    {
+    "id": 6541970,
+    "name": "San Giovanni la Punta",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.09809,
+        "lat": 37.57605
+    }
+    },
+    {
+    "id": 6541972,
+    "name": "Modica",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.77399,
+        "lat": 36.84594
+    }
+    },
+    {
+    "id": 6541973,
+    "name": "Pozzallo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.84989,
+        "lat": 36.730541
+    }
+    },
+    {
+    "id": 6541982,
+    "name": "Riccione",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.64465,
+        "lat": 44.00507
+    }
+    },
+    {
+    "id": 6541985,
+    "name": "Capua",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.22013,
+        "lat": 41.099709
+    }
+    },
+    {
+    "id": 6541989,
+    "name": "Cesano Maderno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.15224,
+        "lat": 45.630379
+    }
+    },
+    {
+    "id": 6541993,
+    "name": "Castione della Presolana",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.06356,
+        "lat": 45.914391
+    }
+    },
+    {
+    "id": 6541995,
+    "name": "Orbassano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.53992,
+        "lat": 45.003841
+    }
+    },
+    {
+    "id": 6541996,
+    "name": "Ragusa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.71719,
+        "lat": 36.928242
+    }
+    },
+    {
+    "id": 6541997,
+    "name": "Lecco",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.39048,
+        "lat": 45.85334
+    }
+    },
+    {
+    "id": 6541998,
+    "name": "Bologna",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.35041,
+        "lat": 44.506569
+    }
+    },
+    {
+    "id": 6541999,
+    "name": "L'Aquila",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.39349,
+        "lat": 42.36504
+    }
+    },
+    {
+    "id": 6542000,
+    "name": "Campobasso",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.66753,
+        "lat": 41.560032
+    }
+    },
+    {
+    "id": 6542001,
+    "name": "Bari",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.851179,
+        "lat": 41.117729
+    }
+    },
+    {
+    "id": 6542002,
+    "name": "Reggio nell'Emilia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.61949,
+        "lat": 44.70866
+    }
+    },
+    {
+    "id": 6542003,
+    "name": "Pesaro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.89026,
+        "lat": 43.903568
+    }
+    },
+    {
+    "id": 6542004,
+    "name": "Verbania",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.57372,
+        "lat": 45.94128
+    }
+    },
+    {
+    "id": 6542006,
+    "name": "Signa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.09792,
+        "lat": 43.792351
+    }
+    },
+    {
+    "id": 6542009,
+    "name": "Savona",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.47375,
+        "lat": 44.30814
+    }
+    },
+    {
+    "id": 6542010,
+    "name": "Santo Stefano d'Aveto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.44817,
+        "lat": 44.545448
+    }
+    },
+    {
+    "id": 6542012,
+    "name": "Bareggio",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.99994,
+        "lat": 45.487671
+    }
+    },
+    {
+    "id": 6542022,
+    "name": "Farra d'Alpago",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.35151,
+        "lat": 46.12542
+    }
+    },
+    {
+    "id": 6542025,
+    "name": "Piacenza",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.69937,
+        "lat": 45.046761
+    }
+    },
+    {
+    "id": 6542027,
+    "name": "Castel Focognano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.78774,
+        "lat": 43.653648
+    }
+    },
+    {
+    "id": 6542031,
+    "name": "Serra Riccò",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.93726,
+        "lat": 44.509251
+    }
+    },
+    {
+    "id": 6542037,
+    "name": "Paderno Dugnano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.16344,
+        "lat": 45.573071
+    }
+    },
+    {
+    "id": 6542041,
+    "name": "Capannori",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.5728,
+        "lat": 43.874741
+    }
+    },
+    {
+    "id": 6542044,
+    "name": "Nettuno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.67899,
+        "lat": 41.482609
+    }
+    },
+    {
+    "id": 6542055,
+    "name": "Como",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.08744,
+        "lat": 45.809978
+    }
+    },
+    {
+    "id": 6542059,
+    "name": "Bacoli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.07829,
+        "lat": 40.799519
+    }
+    },
+    {
+    "id": 6542060,
+    "name": "Boscoreale",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.49944,
+        "lat": 40.775612
+    }
+    },
+    {
+    "id": 6542068,
+    "name": "Oppido Lucano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.98667,
+        "lat": 40.761822
+    }
+    },
+    {
+    "id": 6542070,
+    "name": "Mascalucia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.02989,
+        "lat": 37.592152
+    }
+    },
+    {
+    "id": 6542078,
+    "name": "Crespano del Grappa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.8337,
+        "lat": 45.825401
+    }
+    },
+    {
+    "id": 6542081,
+    "name": "Vigonza",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.95941,
+        "lat": 45.427601
+    }
+    },
+    {
+    "id": 6542084,
+    "name": "Pianoro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.34231,
+        "lat": 44.39296
+    }
+    },
+    {
+    "id": 6542087,
+    "name": "Carrara",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.06069,
+        "lat": 44.062939
+    }
+    },
+    {
+    "id": 6542089,
+    "name": "Scandicci",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.19043,
+        "lat": 43.757462
+    }
+    },
+    {
+    "id": 6542090,
+    "name": "Cascina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.49941,
+        "lat": 43.679138
+    }
+    },
+    {
+    "id": 6542091,
+    "name": "San Miniato",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.81741,
+        "lat": 43.689941
+    }
+    },
+    {
+    "id": 6542092,
+    "name": "Anzio",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.61789,
+        "lat": 41.48531
+    }
+    },
+    {
+    "id": 6542093,
+    "name": "Ardea",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.51938,
+        "lat": 41.608711
+    }
+    },
+    {
+    "id": 6542094,
+    "name": "Gaeta",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.56281,
+        "lat": 41.218311
+    }
+    },
+    {
+    "id": 6542099,
+    "name": "Carini",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.17764,
+        "lat": 38.156651
+    }
+    },
+    {
+    "id": 6542103,
+    "name": "Sciacca",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.08805,
+        "lat": 37.50824
+    }
+    },
+    {
+    "id": 6542104,
+    "name": "Misterbianco",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.95377,
+        "lat": 37.53405
+    }
+    },
+    {
+    "id": 6542112,
+    "name": "Varese",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.82193,
+        "lat": 45.829079
+    }
+    },
+    {
+    "id": 6542113,
+    "name": "Brescia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.22727,
+        "lat": 45.52478
+    }
+    },
+    {
+    "id": 6542114,
+    "name": "Terni",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.64987,
+        "lat": 42.567131
+    }
+    },
+    {
+    "id": 6542115,
+    "name": "Latina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.89729,
+        "lat": 41.464409
+    }
+    },
+    {
+    "id": 6542116,
+    "name": "Bergamo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.66895,
+        "lat": 45.697979
+    }
+    },
+    {
+    "id": 6542117,
+    "name": "Salerno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.80374,
+        "lat": 40.663212
+    }
+    },
+    {
+    "id": 6542118,
+    "name": "Chieti",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.16773,
+        "lat": 42.3503
+    }
+    },
+    {
+    "id": 6542119,
+    "name": "Novara",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.61684,
+        "lat": 45.440559
+    }
+    },
+    {
+    "id": 6542120,
+    "name": "Ferrara",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.62071,
+        "lat": 44.826778
+    }
+    },
+    {
+    "id": 6542121,
+    "name": "Lucca",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.50705,
+        "lat": 43.848228
+    }
+    },
+    {
+    "id": 6542122,
+    "name": "Pisa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.4137,
+        "lat": 43.710838
+    }
+    },
+    {
+    "id": 6542123,
+    "name": "Benevento",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.78614,
+        "lat": 41.12952
+    }
+    },
+    {
+    "id": 6542124,
+    "name": "Lecce",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 18.17202,
+        "lat": 40.357029
+    }
+    },
+    {
+    "id": 6542125,
+    "name": "Perugia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.38286,
+        "lat": 43.096741
+    }
+    },
+    {
+    "id": 6542126,
+    "name": "Ancona",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.51008,
+        "lat": 43.59816
+    }
+    },
+    {
+    "id": 6542127,
+    "name": "Palermo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.36143,
+        "lat": 38.115719
+    }
+    },
+    {
+    "id": 6542128,
+    "name": "Massa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.11409,
+        "lat": 44.022041
+    }
+    },
+    {
+    "id": 6542131,
+    "name": "Livigno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.13375,
+        "lat": 46.53471
+    }
+    },
+    {
+    "id": 6542137,
+    "name": "Camaiore",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.2419,
+        "lat": 43.90974
+    }
+    },
+    {
+    "id": 6542141,
+    "name": "Quartu Sant'Elena",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.1832,
+        "lat": 39.242001
+    }
+    },
+    {
+    "id": 6542143,
+    "name": "Ciriè",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.59882,
+        "lat": 45.23505
+    }
+    },
+    {
+    "id": 6542148,
+    "name": "Marsala",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.4379,
+        "lat": 37.803551
+    }
+    },
+    {
+    "id": 6542152,
+    "name": "Ascoli Piceno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.57395,
+        "lat": 42.858929
+    }
+    },
+    {
+    "id": 6542153,
+    "name": "Arezzo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.86904,
+        "lat": 43.472351
+    }
+    },
+    {
+    "id": 6542154,
+    "name": "Taranto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 17.240101,
+        "lat": 40.417019
+    }
+    },
+    {
+    "id": 6542155,
+    "name": "Trapani",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.54443,
+        "lat": 38.016041
+    }
+    },
+    {
+    "id": 6542178,
+    "name": "Jesolo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.63582,
+        "lat": 45.534698
+    }
+    },
+    {
+    "id": 6542181,
+    "name": "Bastia Umbra",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.54556,
+        "lat": 43.06794
+    }
+    },
+    {
+    "id": 6542182,
+    "name": "Montopoli di Sabina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.69208,
+        "lat": 42.24593
+    }
+    },
+    {
+    "id": 6542189,
+    "name": "San Tomaso Agordino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.97439,
+        "lat": 46.380718
+    }
+    },
+    {
+    "id": 6542190,
+    "name": "Telese Terme",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.52773,
+        "lat": 41.217319
+    }
+    },
+    {
+    "id": 6542191,
+    "name": "Taibon Agordino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.0097,
+        "lat": 46.301121
+    }
+    },
+    {
+    "id": 6542195,
+    "name": "San Nicandro Garganico",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.56535,
+        "lat": 41.83844
+    }
+    },
+    {
+    "id": 6542197,
+    "name": "Lampedusa e Linosa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.60216,
+        "lat": 35.5019
+    }
+    },
+    {
+    "id": 6542207,
+    "name": "Sanremo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.76115,
+        "lat": 43.818218
+    }
+    },
+    {
+    "id": 6542210,
+    "name": "Granarolo dell'Emilia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.44291,
+        "lat": 44.553268
+    }
+    },
+    {
+    "id": 6542213,
+    "name": "Greve in Chianti",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.31633,
+        "lat": 43.58654
+    }
+    },
+    {
+    "id": 6542233,
+    "name": "Cassano allo Ionio",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.31819,
+        "lat": 39.783001
+    }
+    },
+    {
+    "id": 6542239,
+    "name": "Isola di Capo Rizzuto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 17.093321,
+        "lat": 38.959991
+    }
+    },
+    {
+    "id": 6542249,
+    "name": "Cencenighe Agordino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.97339,
+        "lat": 46.343121
+    }
+    },
+    {
+    "id": 6542252,
+    "name": "Casalfiumanese",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.62402,
+        "lat": 44.29686
+    }
+    },
+    {
+    "id": 6542256,
+    "name": "Collesalvetti",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.47481,
+        "lat": 43.58884
+    }
+    },
+    {
+    "id": 6542269,
+    "name": "Torremaggiore",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.29634,
+        "lat": 41.690739
+    }
+    },
+    {
+    "id": 6542278,
+    "name": "Caiazzo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.36223,
+        "lat": 41.178719
+    }
+    },
+    {
+    "id": 6542280,
+    "name": "Montiglio Monferrato",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.09723,
+        "lat": 45.06525
+    }
+    },
+    {
+    "id": 6542281,
+    "name": "Padova",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.88181,
+        "lat": 45.415192
+    }
+    },
+    {
+    "id": 6542282,
+    "name": "Genoa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.95729,
+        "lat": 44.412861
+    }
+    },
+    {
+    "id": 6542283,
+    "name": "Milano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.19199,
+        "lat": 45.464161
+    }
+    },
+    {
+    "id": 6542284,
+    "name": "Venezia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.33092,
+        "lat": 45.4389
+    }
+    },
+    {
+    "id": 6542285,
+    "name": "Firenze",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.24892,
+        "lat": 43.786449
+    }
+    },
+    {
+    "id": 6542286,
+    "name": "Siracusa",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.273,
+        "lat": 37.085152
+    }
+    },
+    {
+    "id": 6542287,
+    "name": "Reggio Calabria",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.66129,
+        "lat": 38.11047
+    }
+    },
+    {
+    "id": 6542288,
+    "name": "Soverato",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.54991,
+        "lat": 38.684978
+    }
+    },
+    {
+    "id": 6542289,
+    "name": "Creazzo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.4785,
+        "lat": 45.53199
+    }
+    },
+    {
+    "id": 6542290,
+    "name": "Ponte San Nicolò",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.92111,
+        "lat": 45.370491
+    }
+    },
+    {
+    "id": 6542292,
+    "name": "Silvi",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.122,
+        "lat": 42.545639
+    }
+    },
+    {
+    "id": 6542294,
+    "name": "Pieve Emanuele",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.20002,
+        "lat": 45.3475
+    }
+    },
+    {
+    "id": 6542304,
+    "name": "Buccinasco",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.10698,
+        "lat": 45.41713
+    }
+    },
+    {
+    "id": 6542307,
+    "name": "Lamezia Terme",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.3092,
+        "lat": 38.965889
+    }
+    },
+    {
+    "id": 6542310,
+    "name": "Cassano Magnago",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.82674,
+        "lat": 45.66917
+    }
+    },
+    {
+    "id": 6542315,
+    "name": "Settimo Milanese",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.05205,
+        "lat": 45.482281
+    }
+    },
+    {
+    "id": 6542321,
+    "name": "Verano Brianza",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.22454,
+        "lat": 45.688679
+    }
+    },
+    {
+    "id": 6542326,
+    "name": "San Felice a Cancello",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.45583,
+        "lat": 41.00581
+    }
+    },
+    {
+    "id": 6542327,
+    "name": "San Nicola la Strada",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.33133,
+        "lat": 41.051811
+    }
+    },
+    {
+    "id": 6542330,
+    "name": "Quarto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.13943,
+        "lat": 40.876808
+    }
+    },
+    {
+    "id": 6542331,
+    "name": "Tremestieri Etneo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.07089,
+        "lat": 37.581249
+    }
+    },
+    {
+    "id": 6542338,
+    "name": "Teverola",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.20763,
+        "lat": 40.995609
+    }
+    },
+    {
+    "id": 6542339,
+    "name": "Casavatore",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.27663,
+        "lat": 40.899212
+    }
+    },
+    {
+    "id": 6542340,
+    "name": "Volla",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.34293,
+        "lat": 40.87841
+    }
+    },
+    {
+    "id": 6542346,
+    "name": "Gravina di Catania",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.06299,
+        "lat": 37.55555
+    }
+    },
+    {
+    "id": 6542350,
+    "name": "Piedimonte Matese",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.36803,
+        "lat": 41.350819
+    }
+    },
+    {
+    "id": 6542351,
+    "name": "Cesano Boscone",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.09445,
+        "lat": 45.44207
+    }
+    },
+    {
+    "id": 6542355,
+    "name": "Fonte Nuova",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 12.62194,
+        "lat": 42.001671
+    }
+    },
+    {
+    "id": 6542356,
+    "name": "San Giovanni Teatino",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 14.20101,
+        "lat": 42.409142
+    }
+    },
+    {
+    "id": 6542361,
+    "name": "Mombarcaro",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.08824,
+        "lat": 44.46764
+    }
+    },
+    {
+    "id": 6542490,
+    "name": "Champorcher",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.62151,
+        "lat": 45.62376
+    }
+    },
+    {
+    "id": 6542517,
+    "name": "Solbiate",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.93314,
+        "lat": 45.78968
+    }
+    },
+    {
+    "id": 6542519,
+    "name": "Veniano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.98974,
+        "lat": 45.719379
+    }
+    },
+    {
+    "id": 6542529,
+    "name": "Assago",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.12565,
+        "lat": 45.408871
+    }
+    },
+    {
+    "id": 6542617,
+    "name": "San Giorgio di Mantova",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.87259,
+        "lat": 45.151981
+    }
+    },
+    {
+    "id": 6542632,
+    "name": "Sant'Alessio con Vialone",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.22605,
+        "lat": 45.222359
+    }
+    },
+    {
+    "id": 6542636,
+    "name": "Sagron Mis",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.9432,
+        "lat": 46.19471
+    }
+    },
+    {
+    "id": 6542654,
+    "name": "Zeccone",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.20115,
+        "lat": 45.25787
+    }
+    },
+    {
+    "id": 6542661,
+    "name": "Velo d'Astico",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.36769,
+        "lat": 45.788399
+    }
+    },
+    {
+    "id": 6542671,
+    "name": "Megliadino San Fidenzio",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.516,
+        "lat": 45.217388
+    }
+    },
+    {
+    "id": 6542693,
+    "name": "Terzolas",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.92587,
+        "lat": 46.361111
+    }
+    },
+    {
+    "id": 6542723,
+    "name": "Capraia e Limite",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.98342,
+        "lat": 43.74535
+    }
+    },
+    {
+    "id": 6542742,
+    "name": "Isola del Giglio",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.90728,
+        "lat": 42.35791
+    }
+    },
+    {
+    "id": 6542791,
+    "name": "Valtournenche",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.6243,
+        "lat": 45.876068
+    }
+    },
+    {
+    "id": 6542797,
+    "name": "Vallada Agordina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.93399,
+        "lat": 46.364422
+    }
+    },
+    {
+    "id": 6542798,
+    "name": "Cavaso del Tomba",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.8984,
+        "lat": 45.860699
+    }
+    },
+    {
+    "id": 6542801,
+    "name": "Lucoli",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 13.33799,
+        "lat": 42.290932
+    }
+    },
+    {
+    "id": 6543042,
+    "name": "Rivalta Bormida",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.55175,
+        "lat": 44.709751
+    }
+    },
+    {
+    "id": 6543057,
+    "name": "Donnas",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.77491,
+        "lat": 45.602859
+    }
+    },
+    {
+    "id": 6543083,
+    "name": "Casale Litta",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.74133,
+        "lat": 45.767872
+    }
+    },
+    {
+    "id": 6543094,
+    "name": "Luvinate",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.77193,
+        "lat": 45.839581
+    }
+    },
+    {
+    "id": 6543098,
+    "name": "Sangiano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.63333,
+        "lat": 45.87508
+    }
+    },
+    {
+    "id": 6543120,
+    "name": "Montagna in Valtellina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.90295,
+        "lat": 46.178501
+    }
+    },
+    {
+    "id": 6543133,
+    "name": "Busnago",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.46375,
+        "lat": 45.616482
+    }
+    },
+    {
+    "id": 6543164,
+    "name": "Rogno",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 10.13216,
+        "lat": 45.85659
+    }
+    },
+    {
+    "id": 6543294,
+    "name": "Poggiorsini",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 16.25477,
+        "lat": 40.91713
+    }
+    },
+    {
+    "id": 6543306,
+    "name": "Gualtieri Sicaminò",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 15.31699,
+        "lat": 38.16267
+    }
+    },
+    {
+    "id": 6543354,
+    "name": "San Martino in Strada",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.52636,
+        "lat": 45.274971
+    }
+    },
+    {
+    "id": 6543415,
+    "name": "Riva Valdobbia",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.95661,
+        "lat": 45.830971
+    }
+    },
+    {
+    "id": 6543424,
+    "name": "Dormelletto",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.56663,
+        "lat": 45.736271
+    }
+    },
+    {
+    "id": 6543444,
+    "name": "Frabosa Sottana",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.79754,
+        "lat": 44.30233
+    }
+    },
+    {
+    "id": 6543533,
+    "name": "Mornese",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.75615,
+        "lat": 44.639252
+    }
+    },
+    {
+    "id": 6543561,
+    "name": "Cartigliano",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.6956,
+        "lat": 45.713001
+    }
+    },
+    {
+    "id": 6543562,
+    "name": "Gambellara",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.3401,
+        "lat": 45.459789
+    }
+    },
+    {
+    "id": 6543570,
+    "name": "Rocca Pietore",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.97679,
+        "lat": 46.433922
+    }
+    },
+    {
+    "id": 6543575,
+    "name": "San Giorgio delle Pertiche",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 11.89401,
+        "lat": 45.541
+    }
+    },
+    {
+    "id": 6543663,
+    "name": "Viverone",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.04942,
+        "lat": 45.427261
+    }
+    },
+    {
+    "id": 6543726,
+    "name": "Ronago",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.98364,
+        "lat": 45.832279
+    }
+    },
+    {
+    "id": 6543730,
+    "name": "Turate",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.00424,
+        "lat": 45.657269
+    }
+    },
+    {
+    "id": 6543740,
+    "name": "Caponago",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 9.37585,
+        "lat": 45.566479
+    }
+    },
+    {
+    "id": 6543787,
+    "name": "San Pietro Val Lemina",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 7.31092,
+        "lat": 44.90654
+    }
+    },
+    {
+    "id": 6543838,
+    "name": "Cavagnolo",
+    "state": "",
+    "country": "IT",
+    "coord": {
+        "lon": 8.04903,
+        "lat": 45.151749
+    }
+    },
+    {
+        "id": 102908597.0,
+        "name": "Gerton",
+        "state": "",
+        "country": "US",
+        "coord": {
+            "lon": -82.348056,
+            "lat": 35.479167
+        }
+    }
+]
