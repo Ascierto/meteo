@@ -102,8 +102,11 @@ $dayOftheWeek= $arrGiorno[0];
     <div class="container">
 
         <div class="row">
+               <div class="col-12 text-start m-5">
+                <a href="/miometeo" class="btn btn-success">Torna indietro</a>
+             </div>
               <div class="col-12">
-                  <h1>Le previsoni di oggi per : <span class="text-warning"><?php echo $data->city->name; ?></span></h1>
+                  <h1 class="text-tomato">Le previsoni di oggi per : <span class="text-warning"><?php echo $data->city->name; ?></span></h1>
               </div>
         
         </div>
@@ -113,18 +116,23 @@ $dayOftheWeek= $arrGiorno[0];
 
                 <?php if(strpos(date("l g:i a\ d-m-Y",$list[$i]->dt), $dayOftheWeek) !== false) : ?>
 
-                      <div class="weather-card col-md-3 m-5">
-                          <div class="main-weather">
+                      <div class="weather-card col-md-5 m-5">
+                       <div>
+                             <img src="<?php echo "http://openweathermap.org/img/wn/{$list[$i]->weather[0]->icon}@2x.png" ?>" alt="<?php echo $list[$i]->weather[0]->description; ?>" title="<?php echo $list[$i]->weather[0]->description; ?>" />
                           
-                              
-                              <h2> <?php echo date("l g:i a\ d-m-Y",$list[$i]->dt);  ?></h2>
-                              <p> <?php echo $list[$i]->weather[0]->main; ?> </p>
+                              <div class="main-weather">
+                                  <h1><?php echo $data->city->name; ?></h1>
+                                  <p><?php echo $list[$i]->weather[0]->description; ?></p>
+                                  
+                                  <p class="text-success"> <?php echo date("l g:i a\ d-m-Y",$list[$i]->dt);  ?></p>
+                              </div>
                           </div>
 
-                          <div class="temperature">
-                          <span><span class="material-icons temp-max">thermostat</span>Temp. Max: <?php echo $list[$i]->main->temp_max; ?>°C</span>
-                          <span><span class="material-icons temp-min">thermostat</span>Temp. Min: <?php echo $list[$i]->main->temp_min; ?>°C</span>
-                          </div>
+                              <div class="temperature">
+                              <span><span class="material-icons temp-max">thermostat</span>Temp. Max: <?php echo $list[$i]->main->temp_max; ?>°C</span>
+                              <span><span class="material-icons temp-min">thermostat</span>Temp. Min: <?php echo $list[$i]->main->temp_min; ?>°C</span>
+                              </div>
+                          
                       </div>
 
             
@@ -135,11 +143,8 @@ $dayOftheWeek= $arrGiorno[0];
     </div>  
     
 
-    <div class="container">
+    <div class="container my-5">
         <div class="row">
-            <div class="col-12 text-start m-5">
-                <a href="/miometeo" class="btn btn-success">Torna indietro</a>
-            </div>
             <div class="col-12">
                 <h1>Le previsioni per i prossimi giorni a <span class="text-warning"><?php echo $data->city->name; ?></span></h1>
              </div>
